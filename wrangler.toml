@@ -1,0 +1,2 @@
+name = "airports-hugo"
+pages_build_output_dir = "public"
